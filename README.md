@@ -1,7 +1,7 @@
 # 说明
 常用脚本、工具收集。
 
-本项目托管于https://github.com/notinmood/CommonScripts，但因为国内的网络情况，就在https://gitee.com/xiedali/CommonScripts做了同步。同步方法也非常简单：在gitee项目名称的后面点击带有双箭头的小圆形图标，即可。
+本项目托管于 https://github.com/notinmood/CommonScripts ，但因为国内的网络情况，就在 https://gitee.com/xiedali/CommonScripts 做了同步。同步方法也非常简单：在gitee项目名称的后面点击带有双箭头的小圆形图标，即可。
 
 ## linux 工具
 ### /linux/docker_pull.sh 
